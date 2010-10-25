@@ -332,29 +332,29 @@ a.rdbTK-powered {
 table, tr, td {
   background-color: transparent !important; }
 
-.size-rereader {
+.size-re-readability {
   font-size: 18px; }
-  .size-rereader#readInner {
+  .size-re-readability#readInner {
     line-height: 27px; }
 
-.style-rereader {
+.style-re-readability {
   font-family: Georgia, serif;
   background: #fbfbfb;
   color: #080000; }
-  .style-rereader h1, .style-rereader h2, .style-rereader h3 {
+  .style-re-readability h1, .style-re-readability h2, .style-re-readability h3 {
     font-family: Helvetica, Arial, serif;
     font-weight: normal; }
-  .style-rereader h1 {
+  .style-re-readability h1 {
     color: #2244bb; }
-  .style-rereader h2 {
+  .style-re-readability h2 {
     font-weight: bold;
     font-size: 1.1em; }
-  .style-rereader h3 {
+  .style-re-readability h3 {
     font-weight: bold;
     font-size: 1em; }
-  .style-rereader #readInner a {
+  .style-re-readability #readInner a {
     color: #2244bb; }
 
-.margin-rereader {
+.margin-re-readability {
   width: 600px;
   margin-left: 200px !important; }
